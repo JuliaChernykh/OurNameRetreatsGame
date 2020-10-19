@@ -6,10 +6,10 @@
 #too big folder
 /Content/StarterContent
 #but these files are needed
-!/.../Maps
-!/.../Props
-!/.../Materials
-!/.../Shapes
+!/Content/*/Maps/
+!/Content/*/Props/
+!/Content/*/Materials/
+!/Content/*/Shapes/
 # Executables
 *.exe
 *.out
