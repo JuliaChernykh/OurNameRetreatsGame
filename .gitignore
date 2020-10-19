@@ -3,7 +3,13 @@
 /DerivedDataCache/
 /Intermediate/
 /Saved/
-
+#too big folder
+/Content/StarterContent
+#but these files are needed
+!/.../Maps
+!/.../Props
+!/.../Materials
+!/.../Shapes
 # Executables
 *.exe
 *.out
